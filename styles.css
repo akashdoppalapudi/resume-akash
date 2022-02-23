@@ -1,0 +1,57 @@
+body {
+	margin: 0;
+	font-family: sans-serif;
+	background-color: #e6e6e6;
+}
+
+header {
+	background: #0ef7ef;
+	padding: 15px;
+	text-align: center;
+	color: #6e6f6f;
+}
+
+header h1 {
+	margin: 0;
+	font-size: 40px;
+}
+
+header p {
+	margin: 0;
+	margin-top: 5px;
+	font-size: 20px;
+}
+
+main {
+	width: 60%;
+	margin: auto;
+	color: #6e6f6f;
+}
+
+.education table {
+	border: 1px solid #6e6f6f;
+}
+
+.education table th {
+	padding: 5px;
+	border: 1px solid #6e6f6f;
+}
+
+.education table td {
+	padding: 5px 10px;
+	border: 1px solid #6e6f6f;
+	text-align: center;
+}
+
+.details table td {
+	padding: 5px 10px;
+}
+
+.date-place {
+	margin-top: 30px;
+}
+
+.date-place p {
+	margin: 8px 0;
+	font-weight: 700;
+}
